@@ -22,6 +22,7 @@ public class Main {
             System.out.println("4 - Sacar dinheiro");
             System.out.println("5 - Pagar um boleto");
             System.out.println("6 - Verificar se a conta está usando cheque especial");
+            System.out.println("0 - Sair");
             option = input.nextInt();
 
             switch(option) {
